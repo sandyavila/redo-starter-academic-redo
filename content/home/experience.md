@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- # - title: CEO
- #   company: GenCoin
- #   company_url: ''
- #   company_logo: org-gc
- #   location: California
- #   date_start: '2021-01-01'
- #   date_end: ''
- #   description: |2-
- #       Responsibilities include:
+  - title: Science Librarian
+   company: University of Central Florida 
+    company_url: 'libraries.ucf.edu'
+    company_logo: 
+    location: Orlando, FL
+    date_start: '2017-10-7'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Reference Service
+        * Library Instruction
+        * Research Consultations
+        * Collection Development
+        * Publishing and Presenting
+        * Course Guide Building 
         
- # - title: Professor of Semiconductor Physics
- #   company: University X
- #   company_url: ''
- #    company_logo: org-x
- #    location: California
- #    date_start: '2016-01-01'
- #   date_end: '2020-12-31'
- #   description: Taught electronic engineering and researched semiconductor physics.
+  - title: Online Professor 
+   company: Florida Technical College 
+    company_url: ''
+    company_logo: 
+    location: Orlando, FL 
+    date_start: '2015-09-01'
+    date_end: '2020-05-31'
+    description: Created course content and taught online courses in World Religions, Intro to Ethics, Intro to Philosophy, and Humanities. 
 
 design:
   columns: '2'

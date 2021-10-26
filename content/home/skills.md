@@ -27,7 +27,7 @@ feature:
 - description: 100%
   icon: camera-retro
   icon_pack: fas
-  name: Technology Understanding
+  name: Emerging Tech Trends
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -21,19 +21,19 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: savila@ucf.edu
-phone: 
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
-  country_code: 
-coordinates:
-  latitude: 
-  longitude: 
-directions: 
-office_hours:
+phone: #
+address: #
+  street: #
+  city: #
+  region: #
+  postcode: #
+  country: #
+  country_code: #
+coordinates: #
+  latitude: #
+  longitude: #
+directions: #
+office_hours: #
   - 
   - 
 appointment_url: 

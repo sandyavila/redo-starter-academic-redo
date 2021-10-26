@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Sandra Avila
+ url: https://works.bepress.com/sandy-avila/ 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Texts & Technology PhD Student & Science Librarian
+role: Texts & Technology PhD Student   Science Librarian
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,6 +79,6 @@ highlight_name: true
 
 Sandy Avila is a part time PhD student in the Texts & Technology program at the University of Central Florida. She also works as a full time Science Librarian at the UCF Libraries. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sandy's research interests include all things emerging technologies related, but specifically virtual reality, STEM librarianship and education, data visualization, and issues of ethics & privacy with the use technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

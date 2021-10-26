@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucf.edu 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging technologies specifically AR/VR/MR, STEM Librarianship, ethical and privacy issues related to technology access and education, and bridging the digital divide across marginalized populations.
+bio: My research interests include STEM librarianship and education, emerging technologies like AR/VR/MR, and ethical and privacy issues related to technology access across marginalized communities.
 
 # Interests to show in About widget
 interests:

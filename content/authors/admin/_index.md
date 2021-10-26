@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Sandra Avila
- url: https://works.bepress.com/sandy-avila/ 
+title: Sandra Avila 
 
 # Is this the primary user of the site?
 superuser: true

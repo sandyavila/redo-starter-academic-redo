@@ -78,6 +78,6 @@ highlight_name: true
 
 Sandy Avila is a part time PhD student in the Texts & Technology program at the University of Central Florida. She also works as a full time Science Librarian at the UCF Libraries. 
 
-Sandy's research interests include all things emerging technologies related, but specifically virtual reality, STEM librarianship and education, data visualization, and issues of ethics & privacy with the use technology.
+Sandy's research interests include STEM librarianship and education, AR/VR/MR, data visualization and data privacy and ethics, and more broadly the ethics behind emerigng technology use and education across marginalized communities.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 - experience:
   - title: Science Librarian
-   company: University of Central Florida
+    company: University of Central Florida
     company_url: ''
     company_logo: 
     location: Orlando, FL
@@ -40,7 +40,7 @@ date_format: Jan 2006
         * Course Guide Building 
         
   - title: Online Professor 
-   company: Florida Technical College 
+    company: Florida Technical College 
     company_url: ''
     company_logo: 
     location: Orlando, FL 

@@ -27,7 +27,7 @@ date_format: Jan 2006
     company_url: ''
     company_logo: 
     location: Orlando, FL
-    date_start: '2017-10-7'
+    date_start: '2017-10-07'
     date_end: ''
     description: |2-
         Responsibilities include:

@@ -6,7 +6,7 @@ title: Sandra Avila
 superuser: true
 
 # Role/position/tagline
-role: Texts & Technology PhD Student   Science Librarian
+role: Texts & Technology PhD Student  &  Science Librarian
 
 # Organizations/Affiliations to show in About widget
 organizations:

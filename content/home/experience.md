@@ -25,7 +25,7 @@ date_format: Jan 2006
   - title: Science Librarian
     company: University of Central Florida
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Orlando, FL
     date_start: '2017-10-07'
     date_end: ''

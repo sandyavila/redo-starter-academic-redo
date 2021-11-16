@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 - experience:
-  - title: 'Science Librarian'
-   company: 'University of Central Florida'
-    company_url: 'libraries.ucf.edu'
+  - title: Science Librarian
+   company:'University of Central Florida
+    company_url: ''
     company_logo: 
     location: Orlando, FL
     date_start: '2017-10-7'
-    date_end: 
+    date_end: ''
     description: |2-
         Responsibilities include:
         

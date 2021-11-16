@@ -42,7 +42,7 @@ date_format: Jan 2006
   - title: Online Professor 
     company: Florida Technical College 
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Orlando, FL 
     date_start: '2015-09-01'
     date_end: '2020-05-31'

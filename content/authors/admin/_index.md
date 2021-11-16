@@ -80,4 +80,4 @@ Sandy Avila is a part time PhD student in the Texts & Technology program at the 
 
 Sandy's research interests include STEM librarianship and education, AR/VR/MR, data visualization and data privacy and ethics, and more broadly the ethics behind emerigng technology use and education across marginalized communities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

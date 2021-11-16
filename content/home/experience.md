@@ -39,7 +39,7 @@ experience:
         * Publishing and Presenting
         * Course Guide Building 
     
- - title: Resources Management Librarian
+  - title: Resources Management Librarian
     company: Barry University School of Law
     company_url: ''
     company_logo: ''
@@ -48,7 +48,7 @@ experience:
     date_end: '2016-03-20'
     description: Successfully mentored Technical Services paraprofessional staff and served on library administrative team's project management system implementation.
 
- - title: Librarian
+  - title: Librarian
     company: Florida Technical College 
     company_url: ''
     company_logo: ''
